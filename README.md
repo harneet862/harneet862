@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Harneet</h1>
+<h1 align="center">Hello, I'm Harneet 👋</h1>
 🔭 I’m currently working on a system that analyzes anonymized text (journals, surveys, or Reddit-style posts) to detect early signs of burnout, stress, or depression.<br><br>👯 I’m looking to collaborate on open-source projects, AI/ML research, and tech-for-good initiatives.<br><br>🌱 I’m currently exploring Cloud Development and advanced machine learning concepts.<br><br>
 
 
