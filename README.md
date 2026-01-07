@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hello, I'm Harneet <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
 🔭 I’m currently working on a system that analyzes anonymized text (journals, surveys, or Reddit-style posts) to detect early signs of burnout, stress, or depression.<br><br>👯 I’m looking to collaborate on open-source projects, AI/ML research, and tech-for-good initiatives.<br><br>🌱 I’m currently exploring Cloud Development and advanced machine learning concepts.<br><br>
 
 
